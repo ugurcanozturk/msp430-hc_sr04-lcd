@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\Button.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Lab\Lab_Deneme.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\project_lesson.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
